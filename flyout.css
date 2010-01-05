@@ -1,0 +1,11 @@
+
+* {padding:0; margin:0}
+.dropdown {display:block; position:relative}
+.dropdown dd {position:absolute; top:0; overflow:hidden;  display:none;  opacity:0}
+.dropdown ul { list-style:none}
+.dropdown li {display:inline;}
+.dropdown a, .dropdown a:active, .dropdown a:visited {display:block; padding:5px;  width:140px; text-decoration:none;}
+.dropdown a:hover {}
+.dropdown .underline {}
+
+
